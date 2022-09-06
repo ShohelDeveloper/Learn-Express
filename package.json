@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "learn-express",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "shohel",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
